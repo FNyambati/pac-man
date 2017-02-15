@@ -3,4 +3,4 @@ import {
   setResolver
 } from 'ember-qunit';
 
-setResolver(resolver);
+setResolver(resolver); 
